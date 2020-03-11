@@ -1,5 +1,4 @@
 sceneSetups:
-- path: C:/Users/maaik/Documents/Building Playful Worlds/ParticleSystemsStarterProjectV2-1/Particle
-    Systems Starter Project/Assets/Scenes/Torch.unity
+- path: Assets/Les 1 v2.unity
   isLoaded: 1
   isActive: 1
